@@ -9,11 +9,16 @@ uuid生成：[https://1024tools.com/uuid](https://1024tools.com/uuid)
 ------
 免费域名注册：[https://www.dynadot.com/register-your-free-link-domain](https://www.dynadot.com/)
 ------
+部分网站无法访问,可以关闭代理重启.
+仍无法访问,可以直接提取代理域名里的IP填写在代码里并重新部署.
+提取工具: [拨测(boce)：网站测速，域名污染被墙检测，ipv6测试，ssl检测等></h1>](https://www.boce.com/ping/workers.cloudflare.cyou)
+------
 ip测试:[https://www.itdog.cn/ping/sp.rweek.top](https://1024tools.com/uuid)
 ------
 cf ip优选: [https://stock.hostmonit.com/CloudFlareYes](https://stock.hostmonit.com/CloudFlareYes)
 ------
 代理ips:
+workers.cloudflare.cyou(解锁Chat_GPT)
 cdn.xn--b6gac.eu.org
 cdn-all.xn--b6gac.eu.org
 workers.cloudflare.cyou
